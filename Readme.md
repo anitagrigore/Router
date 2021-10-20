@@ -1,10 +1,6 @@
 # Homework 1: Router
 Grigore Iulia-Anita, 322CA
 
-!! I sent the homework 3 times, the same archive, and I got 3 different results: 105, 95, 85.
-I added a screenshot of the points I got when I run the homework on my laptop. !!
-
-
 For this homework, I organized my code by functionality: ARP, ICMP and routing table, each
 having a corresponding header and source file.
 
